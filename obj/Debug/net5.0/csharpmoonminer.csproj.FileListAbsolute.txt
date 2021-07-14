@@ -1,0 +1,16 @@
+C:\source\codeworks\work\firesides\csharpmoonminer\bin\Debug\net5.0\csharpmoonminer.exe
+C:\source\codeworks\work\firesides\csharpmoonminer\bin\Debug\net5.0\csharpmoonminer.deps.json
+C:\source\codeworks\work\firesides\csharpmoonminer\bin\Debug\net5.0\csharpmoonminer.runtimeconfig.json
+C:\source\codeworks\work\firesides\csharpmoonminer\bin\Debug\net5.0\csharpmoonminer.runtimeconfig.dev.json
+C:\source\codeworks\work\firesides\csharpmoonminer\bin\Debug\net5.0\csharpmoonminer.dll
+C:\source\codeworks\work\firesides\csharpmoonminer\bin\Debug\net5.0\ref\csharpmoonminer.dll
+C:\source\codeworks\work\firesides\csharpmoonminer\bin\Debug\net5.0\csharpmoonminer.pdb
+C:\source\codeworks\work\firesides\csharpmoonminer\obj\Debug\net5.0\csharpmoonminer.csprojAssemblyReference.cache
+C:\source\codeworks\work\firesides\csharpmoonminer\obj\Debug\net5.0\csharpmoonminer.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\work\firesides\csharpmoonminer\obj\Debug\net5.0\csharpmoonminer.AssemblyInfoInputs.cache
+C:\source\codeworks\work\firesides\csharpmoonminer\obj\Debug\net5.0\csharpmoonminer.AssemblyInfo.cs
+C:\source\codeworks\work\firesides\csharpmoonminer\obj\Debug\net5.0\csharpmoonminer.csproj.CoreCompileInputs.cache
+C:\source\codeworks\work\firesides\csharpmoonminer\obj\Debug\net5.0\csharpmoonminer.dll
+C:\source\codeworks\work\firesides\csharpmoonminer\obj\Debug\net5.0\ref\csharpmoonminer.dll
+C:\source\codeworks\work\firesides\csharpmoonminer\obj\Debug\net5.0\csharpmoonminer.pdb
+C:\source\codeworks\work\firesides\csharpmoonminer\obj\Debug\net5.0\csharpmoonminer.genruntimeconfig.cache
